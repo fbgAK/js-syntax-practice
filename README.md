@@ -1,5 +1,7 @@
 ##js-syntax-practice##
 
+<CODES & TERMS LEARNT IN CLASS>
+
 #Java Tools#
 Element.classList 
 manipulate the class list
